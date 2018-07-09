@@ -1,2 +1,2 @@
 # Homework
-My personal homework for the Introduction to Programming course
+Some tasks for homework, done for the Introduction to Programming course at FMI
